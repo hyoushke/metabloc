@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+eslint.xml
+junit.xml
+coverage
+storybook-static
+
+node_modules
+dist
+dev-dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+*.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+openapitools.json
+openapi.yaml
+
+# Temp
+countries.json
+cities.json
+regions.json
+zip-codes.json
+
